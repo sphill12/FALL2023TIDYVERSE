@@ -85,6 +85,6 @@ lebron_summary <- lebron %>%
 # Task 5: Visualize Data
 ggplot(data = lebron_filtered, aes(x = left, y = top, color = qtr)) +
   geom_point() +
-  labs(title = "LeBron James Shot Distribution by Quarter")
+  labs(title = "Lebron James Shot Distribution by Quarter")
 
 ```
