@@ -51,3 +51,11 @@ movieratings_2022 <- read_csv("URL_TO_MOVIERATINGS_2022_CSV_FILE")
 
 # Perform a full join
 full_movie_ratings <- full_join(movieratings_2021, movieratings_2022, by = "Film")
+```
+
+## Author
+* Matthew Roland
+* Date: 2023-06-11
+* Link to rmd:
+** https://raw.githubusercontent.com/peterkowalchuk/FALL2023TIDYVERSE/main/Roland%20Tidyverse_CREATE_Assignment.Rmd
+*This vignette demonstrates a use-case for the TidyR package, specifically, with regards to using the Pivot and Separate functions to clean and tidy a dataset
