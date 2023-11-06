@@ -6,7 +6,7 @@ Initial Description and Link:
 * Demonstrates how to flip ggplot axes
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
 
-* Demonstrates how to scale axis and move labels
+* Demonstrates how to scale axis and move labels (Kelly)
 * https://github.com/autistic96/FALL2023TIDYVERSE/blob/main/ggplot_scaling_and_labeling.Rmd
 
 Revision/Addition Description and Link:
