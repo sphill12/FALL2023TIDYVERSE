@@ -9,3 +9,5 @@ Initial Description and Link:
 Revision/Addition Description and Link:
 * Modified ggplot/forcats example to demonstrate sorting, other category
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
+Added a few useful dplyr functions to help with data analysis
+* https://raw.githubusercontent.com/sphill12/FALL2023TIDYVERSE/main/Tidyverse%20demo.Rmd
