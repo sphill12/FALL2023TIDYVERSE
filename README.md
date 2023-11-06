@@ -15,6 +15,9 @@ Revision/Addition Description and Link:
 - **Name:** Mikhail Broomes
 - **Date:** 2023-11-05
 
+## Link to code 
+- https://github.com/MAB592/FALL2023TIDYVERSE/blob/main/TidyVerse%20CREATE%20assignment.Rmd
+
 ## Libraries
 - To run the code in this repository, make sure you have the following R libraries installed:
 
