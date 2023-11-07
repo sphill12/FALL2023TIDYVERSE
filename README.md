@@ -17,6 +17,18 @@ Initial Description and Link:
 Revision/Addition Description and Link:
 * Modified ggplot/forcats example to demonstrate sorting, other category
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
+
+
+# Updates by Haig Bedros (@hbedros)
+
+Vignette and Analysis:  
+* Explored a dataset from `FiveThirtyEight` and demonstrated the use of various `tidyverse` functions.  
+* https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/hbe.rmd  
+
+Additional Contribution:  
+* Introduced a section on **"Exploring Cumulative Distribution with tidyverse"** titled **"Cumulative Followers Distribution"**.  
+* https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/ggplot_forcats.rmd
+
 # TidyVerse Create Repository README
 
 ## Author
@@ -64,3 +76,4 @@ full_movie_ratings <- full_join(movieratings_2021, movieratings_2022, by = "Film
 * Link to rmd:
 *  https://raw.githubusercontent.com/peterkowalchuk/FALL2023TIDYVERSE/main/Roland%20Tidyverse_CREATE_Assignment.Rmd
 * This vignette demonstrates a use-case for the TidyR package, specifically, with regards to using the Pivot and Separate functions to clean and tidy a dataset
+
