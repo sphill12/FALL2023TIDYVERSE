@@ -68,6 +68,11 @@ movieratings_2022 <- read_csv("URL_TO_MOVIERATINGS_2022_CSV_FILE")
 
 # Perform a full join
 full_movie_ratings <- full_join(movieratings_2021, movieratings_2022, by = "Film")
+
+## Author
+* Matthew Roland
+* Document demonstrates a use-case for the TidyR package, specifically, with regards to its pivot functions and searate function
+
 ```
 
 ## Author
