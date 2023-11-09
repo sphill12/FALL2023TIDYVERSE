@@ -6,12 +6,29 @@ Initial Description and Link:
 * Demonstrates how to flip ggplot axes
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
 
+
 * Demonstrates how to scale axis and move labels (Kelly)
 * https://github.com/autistic96/FALL2023TIDYVERSE/blob/main/ggplot_scaling_and_labeling.Rmd
 
+* Demonstrates how to animate geographic data on a map over time (Jean)
+* https://github.com/sleepysloth12/data607_tidyverse_queens_crash/blob/30c9e4dc2d900ed2bdb901c3390d212d13cd451e/jjimenez_tidyverse_queens_carcrash.Rmd
+
+  
 Revision/Addition Description and Link:
 * Modified ggplot/forcats example to demonstrate sorting, other category
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
+
+
+# Updates by Haig Bedros (@hbedros)
+
+Vignette and Analysis:  
+* Explored a dataset from `FiveThirtyEight` and demonstrated the use of various `tidyverse` functions.  
+* https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/hbe.rmd  
+
+Additional Contribution:  
+* Introduced a section on **"Exploring Cumulative Distribution with tidyverse"** titled **"Cumulative Followers Distribution"**.  
+* https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/ggplot_forcats.rmd
+
 # TidyVerse Create Repository README
 
 ## Author
@@ -55,3 +72,13 @@ full_movie_ratings <- full_join(movieratings_2021, movieratings_2022, by = "Film
 ## Author
 * Matthew Roland
 * Document demonstrates a use-case for the TidyR package, specifically, with regards to its pivot functions and searate function
+
+```
+
+## Author
+* Matthew Roland
+* Date: 2023-06-11
+* Link to rmd:
+*  https://raw.githubusercontent.com/peterkowalchuk/FALL2023TIDYVERSE/main/Roland%20Tidyverse_CREATE_Assignment.Rmd
+* This vignette demonstrates a use-case for the TidyR package, specifically, with regards to using the Pivot and Separate functions to clean and tidy a dataset
+
