@@ -19,6 +19,11 @@ Revision/Addition Description and Link:
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/ggplot_forcats_fall.rmd
 
 
+Folorunsho Atanda Addition
+* Demonstration of using map() from the purrr package
+* Github link: https://github.com/folushoa/Data-Science/tree/Data-607/Tidyverse
+=======
+
 # Updates by Haig Bedros (@hbedros)
 
 Vignette and Analysis:  
