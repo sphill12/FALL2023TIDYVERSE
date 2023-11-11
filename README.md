@@ -10,8 +10,6 @@ Initial Description and Link:
 * Demonstrates how to scale axis and move labels (Kelly)
 * https://github.com/autistic96/FALL2023TIDYVERSE/blob/main/ggplot_scaling_and_labeling.Rmd
 
-* Demonstrates how to animate geographic data on a map over time (Jean)
-* https://github.com/sleepysloth12/data607_tidyverse_queens_crash/blob/30c9e4dc2d900ed2bdb901c3390d212d13cd451e/jjimenez_tidyverse_queens_carcrash.Rmd
 
   
 Revision/Addition Description and Link:
@@ -86,4 +84,10 @@ full_movie_ratings <- full_join(movieratings_2021, movieratings_2022, by = "Film
 * Link to rmd:
 *  https://raw.githubusercontent.com/peterkowalchuk/FALL2023TIDYVERSE/main/Roland%20Tidyverse_CREATE_Assignment.Rmd
 * This vignette demonstrates a use-case for the TidyR package, specifically, with regards to using the Pivot and Separate functions to clean and tidy a dataset
+
+# Updates by Jean Jimenez (@sleepysloth12)
+
+Vignette and Analysis:  
+* Explored a dataset from `OpenNYC` and demonstrate how to animate geographic data on a map over time
+* https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/jjimenez_tidyverse_queens_carcrash.Rmd
 
