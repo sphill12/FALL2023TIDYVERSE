@@ -91,3 +91,7 @@ Vignette and Analysis:
 * Explored a dataset from `OpenNYC` and demonstrate how to animate geographic data on a map over time
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/jjimenez_tidyverse_queens_carcrash.Rmd
 
+
+# Updates by Stephen Phillips (@sphill12)
+Added a few useful dplyr functions to help with data analysis
+* https://raw.githubusercontent.com/sphill12/FALL2023TIDYVERSE/main/Tidyverse%20demo.Rmd
