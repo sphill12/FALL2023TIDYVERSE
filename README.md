@@ -94,4 +94,5 @@ Vignette and Analysis:
 
 # Updates by Stephen Phillips (@sphill12)
 Added a few useful dplyr functions to help with data analysis
-* https://raw.githubusercontent.com/sphill12/FALL2023TIDYVERSE/main/Tidyverse%20demo.Rmd
+
+https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/Tidyverse%20demo%20Stephen%20Phillips.Rmd
