@@ -91,6 +91,10 @@ Vignette and Analysis:
 * Explored a dataset from `OpenNYC` and demonstrate how to animate geographic data on a map over time
 * https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/jjimenez_tidyverse_queens_carcrash.Rmd
 
+Revision/Addition Description and Link:
+* Modified Stroke Data to include NIHSS and added function that calculates NIHSS
+* https://github.com/peterkowalchuk/FALL2023TIDYVERSE/blob/main/Roland%20Tidyverse_CREATE_Assignment.Rmd
+
 
 # Updates by Stephen Phillips (@sphill12)
 Added a few useful dplyr functions to help with data analysis
