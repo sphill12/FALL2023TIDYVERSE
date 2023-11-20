@@ -60,3 +60,4 @@ print(head(high_income_data, 10))
 In this vignette, the `dplyr` package from the `tidyverse` collection was used to efficiently manage and analyze the Census Income dataset. Specifically, the data was filtered using the `filter()` function to focus on high-income individuals, grouped by income levels using the `group_by()` function, and then sorted by mean age with the `arrange()` function.
 
 This approach uncovered valuable insights about the demographics of high-income individuals. The `dplyr` package, along with other tools from the `tidyverse`, made data manipulation tasks straightforward and effective.
+
